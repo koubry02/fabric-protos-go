@@ -1,4 +1,4 @@
-module github.com/hyperledger/fabric-protos-go
+module github.com/koubry02/fabric-protos-go
 
 go 1.12
 
